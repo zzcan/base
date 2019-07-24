@@ -8,7 +8,7 @@
 
 ### 热更新及原理
 
-### 文件指纹策略“ chunkshash、hash、contenthash
+### 文件指纹策略 chunkshash、hash、contenthash
 
 ### SplitChunksPlugin
 
