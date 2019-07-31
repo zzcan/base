@@ -20,7 +20,7 @@ class App extends React.Component {
 
   render() {
     console.log('child render')
-    return <div>打法胜多负少</div>
+    return <div>gg</div>
   }
 }
 
